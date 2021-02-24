@@ -1,5 +1,1 @@
-# codingnews
-
-## Website
-
-[Code With Stein - Website](https://codewithstein.com)
+this is good
